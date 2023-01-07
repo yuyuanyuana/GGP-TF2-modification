@@ -4,6 +4,7 @@
 This repository contains the implementation of the the Graph Gaussian Process model introduced in '[Bayesian semi-supervised learning with graph Gaussian processes](https://arxiv.org/abs/1809.04379)'.
 
 We just made a small modification to the code [GGP-TF2](https://github.com/FelixOpolka/GGP-TF2) which is based on GPflow 2 and TensorFlow 2.2.
+
 The original implementation accompanying the paper: [GGP-raw](https://github.com/yincheng/GGP)
 
 ```
